@@ -1,0 +1,19 @@
+{
+    "firstName": "Loren",
+    "lastName": "Wetzel",
+    "birthdate": "8/9",
+    "roles": [
+        "administrator",
+        "editor"
+    ],
+    "dependents": [
+        {
+            "name": "Romeo",
+            "age": "17"
+        },
+        {
+            "name": "Ash",
+            "age": "4"
+        }
+    ]
+}
