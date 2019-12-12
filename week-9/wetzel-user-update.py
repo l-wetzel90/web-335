@@ -1,3 +1,8 @@
+# exercise 9.3
+# loren wetzel
+# update and delete documents in a MongoDB 
+#     database instance through Python and pymongo
+
 from pymongo import MongoClient
 
 import pprint

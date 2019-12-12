@@ -1,3 +1,9 @@
+# exercise 9.2
+# loren wetzel
+# query and create documents in a MongoDB 
+#   database instance through Python and pymongo
+
+
 from pymongo import MongoClient
 
 import pprint
